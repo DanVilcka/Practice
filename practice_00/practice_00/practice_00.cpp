@@ -1,10 +1,9 @@
 //
 //  main.cpp
-//  Practice
+//  practice_00
 //
 //  Created by Daniil Vilchinskiy on 24.04.2023.
 //
-
 
 #include <iostream>
 using namespace std;
@@ -89,3 +88,4 @@ int main()
     Print_Structs(records);
     Print_Note();
 }
+
