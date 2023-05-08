@@ -176,6 +176,42 @@ void deleteItem(int index) {
 
 }
 
+void Print_Node(){
+    Print_Header();
+    struct node* current = myHead;
+        while (current) {
+            cout << "|";
+            cout.width(14);
+            cout << left << current->data.name;
+            
+            
+            cout << left << "|";
+            cout.width(14);
+            cout << left << current->data.product;
+            
+            cout << left << "|";
+            cout.width(24);
+            cout << left << current->data.unitCount;
+            
+            cout << left << "|";
+            cout.width(8);
+            cout << left << current->data.coast;
+            
+            cout << "|";
+                if(current->data.date.month < 10){
+                    cout << left << current->data.date.day << ".0" << current->data.date.month << "." << current->data.date.year;
+                } else {
+                    cout << left << current->data.date.day << "." << current->data.date.month << "." << current->data.date.year;
+                }
+                cout.width(3);
+                cout.fill(' ');
+                cout << " ";
+                cout << "|" << endl;
+            current = current->next;
+        }
+
+    Print_Note();
+}
 
 int main()
 {
@@ -194,27 +230,19 @@ int main()
     addItem(records[0]);
     addItem(records[1]);
     addItem(records[2]);
-    Print_Table();
-    Print_Header();
-    Print_Structs(records);
-    Print_Note();
+    
+    Print_Node();
+    
     struct Record newRecord = { "Русаков", "А.М.", 1984, 712.50, {01,02,2023} };
     insertItem(1, newRecord);
-    Print_Table();
-    Print_Header();
-    Print_Structs(records);
-    Print_Note();
+
+    Print_Node();
+    
     deleteItem(3);
-    Print_Table();
-    Print_Header();
-    Print_Structs(records);
-    Print_Note();
     struct Record editRecord = { "Мерсов", "А.А.", 1962, 2000.75, {01,02,2023} };
     editItem(1, editRecord);
-    Print_Table();
-    Print_Header();
-    Print_Structs(records);
-    Print_Note();
+    
+    Print_Node();
 }
 
 

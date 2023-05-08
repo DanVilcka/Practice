@@ -8,48 +8,234 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "BF2C0A86-FA6F-4355-8FD1-54F2C61BDB6A"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "practice_3/practice_3.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "194"
-            endingLineNumber = "194"
+            startingLineNumber = "230"
+            endingLineNumber = "230"
             landmarkName = "main()"
             landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "BF2C0A86-FA6F-4355-8FD1-54F2C61BDB6A - 35fa3e190465cc15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_3/practice_3/practice_3.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "194"
+                  endingLineNumber = "194"
+                  offsetFromSymbolStart = "480">
+               </Location>
+               <Location
+                  uuid = "BF2C0A86-FA6F-4355-8FD1-54F2C61BDB6A - 35fa3e190465cea6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_3/practice_3/practice_3.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "207"
+                  endingLineNumber = "207"
+                  offsetFromSymbolStart = "480">
+               </Location>
+               <Location
+                  uuid = "BF2C0A86-FA6F-4355-8FD1-54F2C61BDB6A - 35fa3e190465ce64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_3/practice_3/practice_3.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "209"
+                  endingLineNumber = "209"
+                  offsetFromSymbolStart = "480">
+               </Location>
+               <Location
+                  uuid = "BF2C0A86-FA6F-4355-8FD1-54F2C61BDB6A - 35fa3e190465c476"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_3/practice_3/practice_3.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "255"
+                  endingLineNumber = "255"
+                  offsetFromSymbolStart = "480">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "BF800115-1579-40A4-A4D6-ECAD81090946"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "practice_3/practice_3.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "195"
-            endingLineNumber = "195"
+            startingLineNumber = "231"
+            endingLineNumber = "231"
             landmarkName = "main()"
             landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "BF800115-1579-40A4-A4D6-ECAD81090946 - 35fa3e190465cc32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_3/practice_3/practice_3.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "195"
+                  endingLineNumber = "195"
+                  offsetFromSymbolStart = "508">
+               </Location>
+               <Location
+                  uuid = "BF800115-1579-40A4-A4D6-ECAD81090946 - 35fa3e190465ce47"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_3/practice_3/practice_3.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "208"
+                  endingLineNumber = "208"
+                  offsetFromSymbolStart = "508">
+               </Location>
+               <Location
+                  uuid = "BF800115-1579-40A4-A4D6-ECAD81090946 - 35fa3e190465ce05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_3/practice_3/practice_3.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "210"
+                  endingLineNumber = "210"
+                  offsetFromSymbolStart = "508">
+               </Location>
+               <Location
+                  uuid = "BF800115-1579-40A4-A4D6-ECAD81090946 - 35fa3e190465c417"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_3/practice_3/practice_3.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "256"
+                  endingLineNumber = "256"
+                  offsetFromSymbolStart = "508">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "C0E7E250-E4C0-4925-9037-73194830EF09"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "practice_3/practice_3.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "196"
-            endingLineNumber = "196"
+            startingLineNumber = "232"
+            endingLineNumber = "232"
             landmarkName = "main()"
             landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "C0E7E250-E4C0-4925-9037-73194830EF09 - 35fa3e190465cdd3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_3/practice_3/practice_3.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "196"
+                  endingLineNumber = "196"
+                  offsetFromSymbolStart = "540">
+               </Location>
+               <Location
+                  uuid = "C0E7E250-E4C0-4925-9037-73194830EF09 - 35fa3e190465ce64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_3/practice_3/practice_3.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "209"
+                  endingLineNumber = "209"
+                  offsetFromSymbolStart = "540">
+               </Location>
+               <Location
+                  uuid = "C0E7E250-E4C0-4925-9037-73194830EF09 - 35fa3e190465ce22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_3/practice_3/practice_3.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "211"
+                  endingLineNumber = "211"
+                  offsetFromSymbolStart = "540">
+               </Location>
+               <Location
+                  uuid = "C0E7E250-E4C0-4925-9037-73194830EF09 - 35fa3e190465c434"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_3/practice_3/practice_3.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "257"
+                  endingLineNumber = "257"
+                  offsetFromSymbolStart = "540">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -62,26 +248,165 @@
             filePath = "practice_3/practice_3.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "201"
-            endingLineNumber = "201"
+            startingLineNumber = "236"
+            endingLineNumber = "236"
             landmarkName = "main()"
             landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "5F03172E-262D-49B3-A36C-A2269A98146C - 35fa3e190465cd6c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_3/practice_3/practice_3.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "201"
+                  endingLineNumber = "201"
+                  offsetFromSymbolStart = "596">
+               </Location>
+               <Location
+                  uuid = "5F03172E-262D-49B3-A36C-A2269A98146C - 35fa3e190465cfe0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_3/practice_3/practice_3.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "213"
+                  endingLineNumber = "213"
+                  offsetFromSymbolStart = "580">
+               </Location>
+               <Location
+                  uuid = "5F03172E-262D-49B3-A36C-A2269A98146C - 35fa3e190465cf5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_3/practice_3/practice_3.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "215"
+                  endingLineNumber = "215"
+                  offsetFromSymbolStart = "580">
+               </Location>
+               <Location
+                  uuid = "5F03172E-262D-49B3-A36C-A2269A98146C - 35fa3e190465c5b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_3/practice_3/practice_3.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "261"
+                  endingLineNumber = "261"
+                  offsetFromSymbolStart = "580">
+               </Location>
+               <Location
+                  uuid = "5F03172E-262D-49B3-A36C-A2269A98146C - 35fa3e190465c2eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_3/practice_3/practice_3.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "236"
+                  endingLineNumber = "236"
+                  offsetFromSymbolStart = "580">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "67B8E26F-6A25-4EA1-9879-53443BCEC5A3"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "practice_3/practice_3.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "202"
-            endingLineNumber = "202"
+            startingLineNumber = "237"
+            endingLineNumber = "237"
             landmarkName = "main()"
             landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "67B8E26F-6A25-4EA1-9879-53443BCEC5A3 - 35fa3e190465cd0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_3/practice_3/practice_3.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "202"
+                  endingLineNumber = "202"
+                  offsetFromSymbolStart = "616">
+               </Location>
+               <Location
+                  uuid = "67B8E26F-6A25-4EA1-9879-53443BCEC5A3 - 35fa3e190465cf81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_3/practice_3/practice_3.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "214"
+                  endingLineNumber = "214"
+                  offsetFromSymbolStart = "600">
+               </Location>
+               <Location
+                  uuid = "67B8E26F-6A25-4EA1-9879-53443BCEC5A3 - 35fa3e190465cf7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_3/practice_3/practice_3.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "216"
+                  endingLineNumber = "216"
+                  offsetFromSymbolStart = "600">
+               </Location>
+               <Location
+                  uuid = "67B8E26F-6A25-4EA1-9879-53443BCEC5A3 - 35fa3e190465c551"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_3/practice_3/practice_3.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "262"
+                  endingLineNumber = "262"
+                  offsetFromSymbolStart = "600">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -94,26 +419,165 @@
             filePath = "practice_3/practice_3.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "212"
-            endingLineNumber = "212"
+            startingLineNumber = "242"
+            endingLineNumber = "242"
             landmarkName = "main()"
             landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "C496E7B2-9C41-42C3-8B1B-16338985AAE9 - 35fa3e190465cfc3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_3/practice_3/practice_3.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "212"
+                  endingLineNumber = "212"
+                  offsetFromSymbolStart = "704">
+               </Location>
+               <Location
+                  uuid = "C496E7B2-9C41-42C3-8B1B-16338985AAE9 - 35fa3e190465c0da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_3/practice_3/practice_3.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "219"
+                  endingLineNumber = "219"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  uuid = "C496E7B2-9C41-42C3-8B1B-16338985AAE9 - 35fa3e190465c098"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_3/practice_3/practice_3.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "221"
+                  endingLineNumber = "221"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  uuid = "C496E7B2-9C41-42C3-8B1B-16338985AAE9 - 35fa3e190465c6ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_3/practice_3/practice_3.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "267"
+                  endingLineNumber = "267"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  uuid = "C496E7B2-9C41-42C3-8B1B-16338985AAE9 - 35fa3e190465c225"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_3/practice_3/practice_3.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "242"
+                  endingLineNumber = "242"
+                  offsetFromSymbolStart = "652">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "35468215-509F-421C-A4B0-2405CA921223"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "practice_3/practice_3.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "213"
-            endingLineNumber = "213"
+            startingLineNumber = "243"
+            endingLineNumber = "243"
             landmarkName = "main()"
             landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "35468215-509F-421C-A4B0-2405CA921223 - 35fa3e190465cfe0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_3/practice_3/practice_3.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "213"
+                  endingLineNumber = "213"
+                  offsetFromSymbolStart = "724">
+               </Location>
+               <Location
+                  uuid = "35468215-509F-421C-A4B0-2405CA921223 - 35fa3e190465c0fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_3/practice_3/practice_3.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "220"
+                  endingLineNumber = "220"
+                  offsetFromSymbolStart = "672">
+               </Location>
+               <Location
+                  uuid = "35468215-509F-421C-A4B0-2405CA921223 - 35fa3e190465c0b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_3/practice_3/practice_3.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "222"
+                  endingLineNumber = "222"
+                  offsetFromSymbolStart = "672">
+               </Location>
+               <Location
+                  uuid = "35468215-509F-421C-A4B0-2405CA921223 - 35fa3e190465c68b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_3/practice_3/practice_3.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "268"
+                  endingLineNumber = "268"
+                  offsetFromSymbolStart = "672">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
