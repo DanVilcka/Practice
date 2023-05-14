@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "02D7F277-E6E7-44AA-8B67-C90BC49CCCF5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D6D065A-767C-4DCC-8E52-EF572A560D1C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "practice_4/practice_4.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "main()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "9D6D065A-767C-4DCC-8E52-EF572A560D1C - 9f21afbaa5d9970a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_4/practice_4/practice_4.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "514">
+               </Location>
+               <Location
+                  uuid = "9D6D065A-767C-4DCC-8E52-EF572A560D1C - 9f21afbaa5d9970a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_4/practice_4/practice_4.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "487">
+               </Location>
+               <Location
+                  uuid = "9D6D065A-767C-4DCC-8E52-EF572A560D1C - 9f21afbaa5d9970a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_4/practice_4/practice_4.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "454">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A23DB2F8-762C-4F34-B7F8-C24ED21F8101"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "practice_4/practice_4.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "main()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "A23DB2F8-762C-4F34-B7F8-C24ED21F8101 - 9f21afbaa5d9972d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_4/practice_4/practice_4.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "536">
+               </Location>
+               <Location
+                  uuid = "A23DB2F8-762C-4F34-B7F8-C24ED21F8101 - 9f21afbaa5d9972d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_4/practice_4/practice_4.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "509">
+               </Location>
+               <Location
+                  uuid = "A23DB2F8-762C-4F34-B7F8-C24ED21F8101 - 9f21afbaa5d9972d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_4/practice_4/practice_4.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "476">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D8C8EA5D-F38E-43C0-90DD-A9B537CACEC8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "practice_4/practice_4.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "main()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "D8C8EA5D-F38E-43C0-90DD-A9B537CACEC8 - 9f21afbaa5d990cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_4/practice_4/practice_4.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "602">
+               </Location>
+               <Location
+                  uuid = "D8C8EA5D-F38E-43C0-90DD-A9B537CACEC8 - 9f21afbaa5d990cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_4/practice_4/practice_4.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "575">
+               </Location>
+               <Location
+                  uuid = "D8C8EA5D-F38E-43C0-90DD-A9B537CACEC8 - 9f21afbaa5d990cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_4/practice_4/practice_4.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "542">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70C788D9-E6D1-46FD-B483-9A7AA63FCFFA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "practice_4/practice_4.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "main()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "70C788D9-E6D1-46FD-B483-9A7AA63FCFFA - 9f21afbaa5d990ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_4/practice_4/practice_4.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "669">
+               </Location>
+               <Location
+                  uuid = "70C788D9-E6D1-46FD-B483-9A7AA63FCFFA - 9f21afbaa5d990ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_4/practice_4/practice_4.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "642">
+               </Location>
+               <Location
+                  uuid = "70C788D9-E6D1-46FD-B483-9A7AA63FCFFA - 9f21afbaa5d990ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_4/practice_4/practice_4.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "613">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DCB1E0C2-BFE7-4BE0-ACC2-145ABB6B7F13"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "practice_4/practice_4.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "main()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "DCB1E0C2-BFE7-4BE0-ACC2-145ABB6B7F13 - 9f21afbaa5d9908e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_4/practice_4/practice_4.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "736">
+               </Location>
+               <Location
+                  uuid = "DCB1E0C2-BFE7-4BE0-ACC2-145ABB6B7F13 - 9f21afbaa5d9908e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_4/practice_4/practice_4.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "709">
+               </Location>
+               <Location
+                  uuid = "DCB1E0C2-BFE7-4BE0-ACC2-145ABB6B7F13 - 9f21afbaa5d9908e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_4/practice_4/practice_4.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "684">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F462B1B6-2E8A-4B06-ABBE-C67C8055EA27"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "practice_4/practice_4.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "main()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "F462B1B6-2E8A-4B06-ABBE-C67C8055EA27 - 9f21afbaa5d99051"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_4/practice_4/practice_4.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "802">
+               </Location>
+               <Location
+                  uuid = "F462B1B6-2E8A-4B06-ABBE-C67C8055EA27 - 9f21afbaa5d99051"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_4/practice_4/practice_4.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "775">
+               </Location>
+               <Location
+                  uuid = "F462B1B6-2E8A-4B06-ABBE-C67C8055EA27 - 9f21afbaa5d99051"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_4/practice_4/practice_4.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "755">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9FDADD70-E041-4E26-8410-9B441D7E3084"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "practice_4/practice_4.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "main()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "9FDADD70-E041-4E26-8410-9B441D7E3084 - 9f21afbaa5d99070"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_4/practice_4/practice_4.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "870">
+               </Location>
+               <Location
+                  uuid = "9FDADD70-E041-4E26-8410-9B441D7E3084 - 9f21afbaa5d99070"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_4/practice_4/practice_4.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "843">
+               </Location>
+               <Location
+                  uuid = "9FDADD70-E041-4E26-8410-9B441D7E3084 - 9f21afbaa5d99070"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_4/practice_4/practice_4.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "824">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17140A21-D018-4B60-A91D-F844838B0C1D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "practice_4/practice_4.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "main()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "17140A21-D018-4B60-A91D-F844838B0C1D - 9f21afbaa5d99013"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_4/practice_4/practice_4.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "937">
+               </Location>
+               <Location
+                  uuid = "17140A21-D018-4B60-A91D-F844838B0C1D - 9f21afbaa5d99013"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_4/practice_4/practice_4.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "910">
+               </Location>
+               <Location
+                  uuid = "17140A21-D018-4B60-A91D-F844838B0C1D - 9f21afbaa5d99013"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_4/practice_4/practice_4.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "892">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "457098BD-DBAE-4822-93B7-7FA66DE7B1DC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "practice_4/practice_4.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF2FE581-D73E-4D04-85CE-1F3939784BC7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "practice_4/practice_4.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "22E1580F-494E-4180-AB51-0B5957F72597"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "practice_4/practice_4.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "726BDEEA-4F3A-4AD2-80B1-B72C88A3506E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "practice_4/practice_4.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9DB4561A-E057-4763-A9CC-C3B09586286E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "practice_4/practice_4.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70133D20-5983-4E65-9CC9-5005663AA0B3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "practice_4/practice_4.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "870148EE-F52C-469F-A529-6C80918FCA71"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "practice_4/practice_4.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "32AD4F70-1884-48BF-9AF4-8A0800103521"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "practice_4/practice_4.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "75C2801E-3542-4203-91FE-B33C6F1030C6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "practice_4/practice_4.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "main()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "75C2801E-3542-4203-91FE-B33C6F1030C6 - 9f21afbaa5d99d18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_4/practice_4/practice_4.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "1772">
+               </Location>
+               <Location
+                  uuid = "75C2801E-3542-4203-91FE-B33C6F1030C6 - 9f21afbaa5d99d3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_4/practice_4/practice_4.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "158"
+                  endingLineNumber = "158"
+                  offsetFromSymbolStart = "1789">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC8FAFF1-E054-4D86-ADBA-0D16D7C83DA6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "practice_4/practice_4.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "158"
+            endingLineNumber = "158"
+            landmarkName = "main()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "DC8FAFF1-E054-4D86-ADBA-0D16D7C83DA6 - 9f21afbaa5d99d3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_4/practice_4/practice_4.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "158"
+                  endingLineNumber = "158"
+                  offsetFromSymbolStart = "1813">
+               </Location>
+               <Location
+                  uuid = "DC8FAFF1-E054-4D86-ADBA-0D16D7C83DA6 - 9f21afbaa5d99eda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_4/practice_4/practice_4.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "159"
+                  endingLineNumber = "159"
+                  offsetFromSymbolStart = "1830">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4F423330-46F2-494E-99EE-7319CDE7B477"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "practice_4/practice_4.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
+            landmarkName = "main()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "4F423330-46F2-494E-99EE-7319CDE7B477 - 9f21afbaa5d99eda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_4/practice_4/practice_4.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "159"
+                  endingLineNumber = "159"
+                  offsetFromSymbolStart = "1868">
+               </Location>
+               <Location
+                  uuid = "4F423330-46F2-494E-99EE-7319CDE7B477 - 9f21afbaa5d99efd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_4/practice_4/practice_4.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "160"
+                  endingLineNumber = "160"
+                  offsetFromSymbolStart = "1885">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CCEFAEF4-0E04-4697-A1A4-4BA0609C2416"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "practice_4/practice_4.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "160"
+            endingLineNumber = "160"
+            landmarkName = "main()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "CCEFAEF4-0E04-4697-A1A4-4BA0609C2416 - 9f21afbaa5d99efd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_4/practice_4/practice_4.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "160"
+                  endingLineNumber = "160"
+                  offsetFromSymbolStart = "1923">
+               </Location>
+               <Location
+                  uuid = "CCEFAEF4-0E04-4697-A1A4-4BA0609C2416 - 9f21afbaa5d99e9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_4/practice_4/practice_4.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "161"
+                  endingLineNumber = "161"
+                  offsetFromSymbolStart = "1940">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8BC45322-707D-4520-83BE-353ADD9FE59B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "practice_4/practice_4.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "161"
+            endingLineNumber = "161"
+            landmarkName = "main()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "8BC45322-707D-4520-83BE-353ADD9FE59B - 9f21afbaa5d99e9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_4/practice_4/practice_4.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "161"
+                  endingLineNumber = "161"
+                  offsetFromSymbolStart = "1979">
+               </Location>
+               <Location
+                  uuid = "8BC45322-707D-4520-83BE-353ADD9FE59B - 9f21afbaa5d99ebf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_4/practice_4/practice_4.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "162"
+                  endingLineNumber = "162"
+                  offsetFromSymbolStart = "1996">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FABD8D4F-975F-4205-B598-DC4BE397CA88"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "practice_4/practice_4.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "main()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "FABD8D4F-975F-4205-B598-DC4BE397CA88 - 9f21afbaa5d99ebf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_4/practice_4/practice_4.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "162"
+                  endingLineNumber = "162"
+                  offsetFromSymbolStart = "2034">
+               </Location>
+               <Location
+                  uuid = "FABD8D4F-975F-4205-B598-DC4BE397CA88 - 9f21afbaa5d99e5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "practice_4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/C%20%7C%20C++/C++/2_Sem/Practice/practice_4/practice_4/practice_4.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "163"
+                  endingLineNumber = "163"
+                  offsetFromSymbolStart = "2051">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
